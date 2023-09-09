@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waheire
 - 👀 I’m interested in developing fullstack web applications, my end goal - Fullstack Dev
-- 🌱 I’m currently working on frontend Angular Framework and learning;(DotNet, C#, DevOPS- Docker, Kubernetes) at TheJitu DotNet Cohort 18
+- 🌱 I’m currently working on frontend Angular Framework projects and learning;(DotNet, C#, DevOPS- Docker, Kubernetes, UiPath -Robotic Process Automation ) at TheJitu DotNet Cohort 18 and UiPath Cohort 19
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me arthurwaheire1@gmail.com
 
